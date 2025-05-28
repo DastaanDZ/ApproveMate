@@ -17,8 +17,8 @@ public class Library {
     public String groupid;
     public String name;
     public String version;
-    public String language;
-    public String swType;
+    public String lic_tech_id;
+    public String lic_tech_id_Expiry_Date;
     public String copyright_holder;
     public String vendorLatestVersion;
     public String plsLatestVersion;

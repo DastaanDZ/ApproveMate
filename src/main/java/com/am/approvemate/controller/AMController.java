@@ -24,6 +24,7 @@ public class AMController {
             List<Library> libraries = mapper.readValue(inputStream, new TypeReference<List<Library>>() {});
             return ResponseEntity.ok(libraries);
         } catch (Exception e) {
+            e.printStackTrace();
             return ResponseEntity.internalServerError().build();
         }
     }
