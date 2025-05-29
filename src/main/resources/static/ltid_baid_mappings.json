@@ -1,0 +1,302 @@
+[
+  {
+    "ltID": "10008",
+    "baID": "635280",
+    "Products (Scope of BA)": "Promotion",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10001",
+    "baID": "303322",
+    "Products (Scope of BA)": "ProductDev",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10003",
+    "baID": "958729",
+    "Products (Scope of BA)": "Analytics",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10016",
+    "baID": "253557",
+    "Products (Scope of BA)": "Promotion",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10020",
+    "baID": "731661",
+    "Products (Scope of BA)": "Supply Chain",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10018",
+    "baID": "285751",
+    "Products (Scope of BA)": "Promotion",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10004",
+    "baID": "896788",
+    "Products (Scope of BA)": "ProductDev",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10017",
+    "baID": "774225",
+    "Products (Scope of BA)": "ProductDev",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10018",
+    "baID": "258290",
+    "Products (Scope of BA)": "HRMS",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10023",
+    "baID": "563688",
+    "Products (Scope of BA)": "FinanceOps",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10011",
+    "baID": "158900",
+    "Products (Scope of BA)": "ProductDev",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10001",
+    "baID": "425486",
+    "Products (Scope of BA)": "Promotion",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10004",
+    "baID": "159653",
+    "Products (Scope of BA)": "Promotion",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10015",
+    "baID": "775981",
+    "Products (Scope of BA)": "Promotion",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10014",
+    "baID": "631699",
+    "Products (Scope of BA)": "ProductDev",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10005",
+    "baID": "143015",
+    "Products (Scope of BA)": "Analytics",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10002",
+    "baID": "297383",
+    "Products (Scope of BA)": "Analytics",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10014",
+    "baID": "625721",
+    "Products (Scope of BA)": "FinanceOps",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10019",
+    "baID": "208529",
+    "Products (Scope of BA)": "FinanceOps",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10007",
+    "baID": "629057",
+    "Products (Scope of BA)": "Promotion",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10019",
+    "baID": "841995",
+    "Products (Scope of BA)": "Supply Chain",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10008",
+    "baID": "490963",
+    "Products (Scope of BA)": "HRMS",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10006",
+    "baID": "912085",
+    "Products (Scope of BA)": "FinanceOps",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10019",
+    "baID": "778748",
+    "Products (Scope of BA)": "Analytics",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10023",
+    "baID": "199096",
+    "Products (Scope of BA)": "HRMS",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10015",
+    "baID": "858889",
+    "Products (Scope of BA)": "HRMS",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10022",
+    "baID": "711046",
+    "Products (Scope of BA)": "Promotion",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10003",
+    "baID": "787923",
+    "Products (Scope of BA)": "HRMS",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10024",
+    "baID": "843266",
+    "Products (Scope of BA)": "ProductDev",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10015",
+    "baID": "494976",
+    "Products (Scope of BA)": "ProductDev",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10024",
+    "baID": "836971",
+    "Products (Scope of BA)": "Analytics",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10018",
+    "baID": "543973",
+    "Products (Scope of BA)": "Analytics",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10012",
+    "baID": "423869",
+    "Products (Scope of BA)": "HRMS",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10020",
+    "baID": "903373",
+    "Products (Scope of BA)": "HRMS",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10024",
+    "baID": "180913",
+    "Products (Scope of BA)": "Supply Chain",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10010",
+    "baID": "908320",
+    "Products (Scope of BA)": "ProductDev",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10017",
+    "baID": "903531",
+    "Products (Scope of BA)": "HRMS",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10008",
+    "baID": "908554",
+    "Products (Scope of BA)": "Analytics",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10013",
+    "baID": "145814",
+    "Products (Scope of BA)": "FinanceOps",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10013",
+    "baID": "565776",
+    "Products (Scope of BA)": "Supply Chain",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10016",
+    "baID": "350786",
+    "Products (Scope of BA)": "ProductDev",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10009",
+    "baID": "485709",
+    "Products (Scope of BA)": "Supply Chain",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10004",
+    "baID": "915922",
+    "Products (Scope of BA)": "HRMS",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10021",
+    "baID": "956572",
+    "Products (Scope of BA)": "Supply Chain",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10014",
+    "baID": "362147",
+    "Products (Scope of BA)": "Supply Chain",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10018",
+    "baID": "489244",
+    "Products (Scope of BA)": "FinanceOps",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10007",
+    "baID": "992512",
+    "Products (Scope of BA)": "ProductDev",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10024",
+    "baID": "196168",
+    "Products (Scope of BA)": "FinanceOps",
+    "initialUseCase": "Internal"
+  },
+  {
+    "ltID": "10012",
+    "baID": "155843",
+    "Products (Scope of BA)": "FinanceOps",
+    "initialUseCase": "Distributed"
+  },
+  {
+    "ltID": "10001",
+    "baID": "347231",
+    "Products (Scope of BA)": "HRMS",
+    "initialUseCase": "Distributed"
+  }
+]

@@ -1,0 +1,938 @@
+[
+  {
+    "plsTechnologyName": "Jackson Databind",
+    "versionedArtifact": "org.jacksondatabind:jackson-databind:2.9.10",
+    "groupid": "org.jacksondatabind",
+    "name": "jackson-databind",
+    "version": "2.9.10",
+    "lic_tech_id": "10001",
+    "lic_tech_id_Expiry_Date": "21-Feb-2025",
+    "copyright_holder": "Jackson Software Foundation",
+    "vendorLatestVersion": "2.12.3",
+    "plsLatestVersion": "2.11.5",
+    "sha1cksum": "5dcb523abd325501e76c0ed6b0ffea1b8be48fdb",
+    "techReleaseDate": "22-Jul-2017",
+    "competitive": false,
+    "cryptoFunction": true,
+    "banned": true,
+    "sourceExists": true,
+    "builtAtOracle": false,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "HIGH",
+        "cvssV3BaseSeverity": "MEDIUM"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "BSD 3-Clause",
+        "spdxLicenseIdentifier": "BSD-3-Clause"
+      }
+    ],
+    "dependencies": {
+      "org.jacksondatabind:jackson-databind-core:2.9.10": {
+        "scope": "compile"
+      },
+      "org.jacksondatabind:jackson-databind-annotations:2.9.10": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Jackson Databind",
+    "versionedArtifact": "org.jacksondatabind:jackson-databind:2.10.0",
+    "groupid": "org.jacksondatabind",
+    "name": "jackson-databind",
+    "version": "2.10.0",
+    "lic_tech_id": "10002",
+    "lic_tech_id_Expiry_Date": "30-Nov-2025",
+    "copyright_holder": "Jackson Software Foundation",
+    "vendorLatestVersion": "2.12.3",
+    "plsLatestVersion": "2.11.5",
+    "sha1cksum": "fde843c5c0942476dafed98f4081ed2e380d92ba",
+    "techReleaseDate": "25-Mar-2016",
+    "competitive": true,
+    "cryptoFunction": true,
+    "banned": false,
+    "sourceExists": true,
+    "builtAtOracle": false,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "CRITICAL",
+        "cvssV3BaseSeverity": "HIGH"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "MIT",
+        "spdxLicenseIdentifier": "MIT"
+      }
+    ],
+    "dependencies": {
+      "org.jacksondatabind:jackson-databind-core:2.10.0": {
+        "scope": "compile"
+      },
+      "org.jacksondatabind:jackson-databind-annotations:2.10.0": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Jackson Databind",
+    "versionedArtifact": "org.jacksondatabind:jackson-databind:2.11.5",
+    "groupid": "org.jacksondatabind",
+    "name": "jackson-databind",
+    "version": "2.11.5",
+    "lic_tech_id": "10003",
+    "lic_tech_id_Expiry_Date": "24-Jan-2025",
+    "copyright_holder": "Jackson Software Foundation",
+    "vendorLatestVersion": "2.12.3",
+    "plsLatestVersion": "2.11.5",
+    "sha1cksum": "4b866feca55962b472dfc98831bf96dd3b5792c4",
+    "techReleaseDate": "07-Nov-2016",
+    "competitive": false,
+    "cryptoFunction": false,
+    "banned": true,
+    "sourceExists": true,
+    "builtAtOracle": false,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "CRITICAL",
+        "cvssV3BaseSeverity": "HIGH"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "BSD 3-Clause",
+        "spdxLicenseIdentifier": "BSD-3-Clause"
+      }
+    ],
+    "dependencies": {
+      "org.jacksondatabind:jackson-databind-core:2.11.5": {
+        "scope": "compile"
+      },
+      "org.jacksondatabind:jackson-databind-annotations:2.11.5": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Jackson Databind",
+    "versionedArtifact": "org.jacksondatabind:jackson-databind:2.12.3",
+    "groupid": "org.jacksondatabind",
+    "name": "jackson-databind",
+    "version": "2.12.3",
+    "lic_tech_id": "10004",
+    "lic_tech_id_Expiry_Date": "20-Oct-2020",
+    "copyright_holder": "Jackson Software Foundation",
+    "vendorLatestVersion": "2.12.3",
+    "plsLatestVersion": "2.11.5",
+    "sha1cksum": "1dba23a5abaf2e12583d10b4f07a44a56bd2cc17",
+    "techReleaseDate": "05-Nov-2015",
+    "competitive": false,
+    "cryptoFunction": true,
+    "banned": true,
+    "sourceExists": true,
+    "builtAtOracle": true,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "MEDIUM",
+        "cvssV3BaseSeverity": "LOW"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "MIT",
+        "spdxLicenseIdentifier": "MIT"
+      }
+    ],
+    "dependencies": {
+      "org.jacksondatabind:jackson-databind-core:2.12.3": {
+        "scope": "compile"
+      },
+      "org.jacksondatabind:jackson-databind-annotations:2.12.3": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Apache Commons IO",
+    "versionedArtifact": "org.apachecommonsio:apache-commons-io:2.6",
+    "groupid": "org.apachecommonsio",
+    "name": "apache-commons-io",
+    "version": "2.6",
+    "lic_tech_id": "10005",
+    "lic_tech_id_Expiry_Date": "25-May-2017",
+    "copyright_holder": "Apache Software Foundation",
+    "vendorLatestVersion": "2.8.0",
+    "plsLatestVersion": "2.7",
+    "sha1cksum": "78ca086e55641dda5afa182a27bb70933ab43fe4",
+    "techReleaseDate": "10-Jul-2018",
+    "competitive": true,
+    "cryptoFunction": false,
+    "banned": false,
+    "sourceExists": true,
+    "builtAtOracle": false,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "CRITICAL",
+        "cvssV3BaseSeverity": "MEDIUM"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "Apache 2.0",
+        "spdxLicenseIdentifier": "Apache-2.0"
+      }
+    ],
+    "dependencies": {
+      "org.apachecommonsio:apache-commons-io-core:2.6": {
+        "scope": "compile"
+      },
+      "org.apachecommonsio:apache-commons-io-annotations:2.6": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Apache Commons IO",
+    "versionedArtifact": "org.apachecommonsio:apache-commons-io:2.7",
+    "groupid": "org.apachecommonsio",
+    "name": "apache-commons-io",
+    "version": "2.7",
+    "lic_tech_id": "10006",
+    "lic_tech_id_Expiry_Date": "19-Dec-2021",
+    "copyright_holder": "Apache Software Foundation",
+    "vendorLatestVersion": "2.8.0",
+    "plsLatestVersion": "2.7",
+    "sha1cksum": "99bde888fc75394a7e49cbb2e35d4e187b0ea64e",
+    "techReleaseDate": "15-Dec-2019",
+    "competitive": false,
+    "cryptoFunction": true,
+    "banned": true,
+    "sourceExists": true,
+    "builtAtOracle": true,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "LOW",
+        "cvssV3BaseSeverity": "MEDIUM"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "BSD 3-Clause",
+        "spdxLicenseIdentifier": "BSD-3-Clause"
+      }
+    ],
+    "dependencies": {
+      "org.apachecommonsio:apache-commons-io-core:2.7": {
+        "scope": "compile"
+      },
+      "org.apachecommonsio:apache-commons-io-annotations:2.7": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Apache Commons IO",
+    "versionedArtifact": "org.apachecommonsio:apache-commons-io:2.8.0",
+    "groupid": "org.apachecommonsio",
+    "name": "apache-commons-io",
+    "version": "2.8.0",
+    "lic_tech_id": "10007",
+    "lic_tech_id_Expiry_Date": "31-May-2027",
+    "copyright_holder": "Apache Software Foundation",
+    "vendorLatestVersion": "2.8.0",
+    "plsLatestVersion": "2.7",
+    "sha1cksum": "ce8678ddb6803c87968a5f8676e6b77d71e6dadf",
+    "techReleaseDate": "12-Oct-2015",
+    "competitive": false,
+    "cryptoFunction": false,
+    "banned": false,
+    "sourceExists": false,
+    "builtAtOracle": true,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "LOW",
+        "cvssV3BaseSeverity": "MEDIUM"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "Apache 2.0",
+        "spdxLicenseIdentifier": "Apache-2.0"
+      }
+    ],
+    "dependencies": {
+      "org.apachecommonsio:apache-commons-io-core:2.8.0": {
+        "scope": "compile"
+      },
+      "org.apachecommonsio:apache-commons-io-annotations:2.8.0": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Google Guava",
+    "versionedArtifact": "org.googleguava:google-guava:28.1-jre",
+    "groupid": "org.googleguava",
+    "name": "google-guava",
+    "version": "28.1-jre",
+    "lic_tech_id": "10008",
+    "lic_tech_id_Expiry_Date": "28-Jun-2026",
+    "copyright_holder": "Google Software Foundation",
+    "vendorLatestVersion": "31.0.1-jre",
+    "plsLatestVersion": "30.1.1-jre",
+    "sha1cksum": "a3f609b8da026495d09834b824f52d405c307ed6",
+    "techReleaseDate": "12-Aug-2018",
+    "competitive": false,
+    "cryptoFunction": false,
+    "banned": false,
+    "sourceExists": true,
+    "builtAtOracle": false,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "MEDIUM",
+        "cvssV3BaseSeverity": "HIGH"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "Apache 2.0",
+        "spdxLicenseIdentifier": "Apache-2.0"
+      }
+    ],
+    "dependencies": {
+      "org.googleguava:google-guava-core:28.1-jre": {
+        "scope": "compile"
+      },
+      "org.googleguava:google-guava-annotations:28.1-jre": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Google Guava",
+    "versionedArtifact": "org.googleguava:google-guava:29.0-jre",
+    "groupid": "org.googleguava",
+    "name": "google-guava",
+    "version": "29.0-jre",
+    "lic_tech_id": "10009",
+    "lic_tech_id_Expiry_Date": "12-Jun-2022",
+    "copyright_holder": "Google Software Foundation",
+    "vendorLatestVersion": "31.0.1-jre",
+    "plsLatestVersion": "30.1.1-jre",
+    "sha1cksum": "4f764ddad17b04d51d4a66b0c92ad71649398352",
+    "techReleaseDate": "01-Jan-2020",
+    "competitive": true,
+    "cryptoFunction": false,
+    "banned": false,
+    "sourceExists": false,
+    "builtAtOracle": true,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "HIGH",
+        "cvssV3BaseSeverity": "HIGH"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "MIT",
+        "spdxLicenseIdentifier": "MIT"
+      }
+    ],
+    "dependencies": {
+      "org.googleguava:google-guava-core:29.0-jre": {
+        "scope": "compile"
+      },
+      "org.googleguava:google-guava-annotations:29.0-jre": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Google Guava",
+    "versionedArtifact": "org.googleguava:google-guava:30.1.1-jre",
+    "groupid": "org.googleguava",
+    "name": "google-guava",
+    "version": "30.1.1-jre",
+    "lic_tech_id": "10010",
+    "lic_tech_id_Expiry_Date": "17-Jul-2026",
+    "copyright_holder": "Google Software Foundation",
+    "vendorLatestVersion": "31.0.1-jre",
+    "plsLatestVersion": "30.1.1-jre",
+    "sha1cksum": "15df8bc0cd0f1a7069a8319e08725681e1046578",
+    "techReleaseDate": "27-Dec-2020",
+    "competitive": true,
+    "cryptoFunction": false,
+    "banned": true,
+    "sourceExists": true,
+    "builtAtOracle": false,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "MEDIUM",
+        "cvssV3BaseSeverity": "MEDIUM"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "Apache 2.0",
+        "spdxLicenseIdentifier": "Apache-2.0"
+      }
+    ],
+    "dependencies": {
+      "org.googleguava:google-guava-core:30.1.1-jre": {
+        "scope": "compile"
+      },
+      "org.googleguava:google-guava-annotations:30.1.1-jre": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Google Guava",
+    "versionedArtifact": "org.googleguava:google-guava:31.0.1-jre",
+    "groupid": "org.googleguava",
+    "name": "google-guava",
+    "version": "31.0.1-jre",
+    "lic_tech_id": "10011",
+    "lic_tech_id_Expiry_Date": "02-Apr-2019",
+    "copyright_holder": "Google Software Foundation",
+    "vendorLatestVersion": "31.0.1-jre",
+    "plsLatestVersion": "30.1.1-jre",
+    "sha1cksum": "f1f8e90715a9db9aad73d1b91ef3956ce383809d",
+    "techReleaseDate": "21-Sep-2017",
+    "competitive": true,
+    "cryptoFunction": false,
+    "banned": true,
+    "sourceExists": true,
+    "builtAtOracle": false,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "CRITICAL",
+        "cvssV3BaseSeverity": "HIGH"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "MIT",
+        "spdxLicenseIdentifier": "MIT"
+      }
+    ],
+    "dependencies": {
+      "org.googleguava:google-guava-core:31.0.1-jre": {
+        "scope": "compile"
+      },
+      "org.googleguava:google-guava-annotations:31.0.1-jre": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "SLF4J",
+    "versionedArtifact": "org.slf4j:slf4j:1.7.25",
+    "groupid": "org.slf4j",
+    "name": "slf4j",
+    "version": "1.7.25",
+    "lic_tech_id": "10012",
+    "lic_tech_id_Expiry_Date": "06-Apr-2022",
+    "copyright_holder": "SLF4J Software Foundation",
+    "vendorLatestVersion": "2.0.0",
+    "plsLatestVersion": "1.7.32",
+    "sha1cksum": "f77b9475059e62105e77b8d130a7cd6f85ea9b51",
+    "techReleaseDate": "11-Sep-2017",
+    "competitive": false,
+    "cryptoFunction": false,
+    "banned": false,
+    "sourceExists": true,
+    "builtAtOracle": true,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "HIGH",
+        "cvssV3BaseSeverity": "LOW"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "MIT",
+        "spdxLicenseIdentifier": "MIT"
+      }
+    ],
+    "dependencies": {
+      "org.slf4j:slf4j-core:1.7.25": {
+        "scope": "compile"
+      },
+      "org.slf4j:slf4j-annotations:1.7.25": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "SLF4J",
+    "versionedArtifact": "org.slf4j:slf4j:1.7.30",
+    "groupid": "org.slf4j",
+    "name": "slf4j",
+    "version": "1.7.30",
+    "lic_tech_id": "10013",
+    "lic_tech_id_Expiry_Date": "20-Sep-2026",
+    "copyright_holder": "SLF4J Software Foundation",
+    "vendorLatestVersion": "2.0.0",
+    "plsLatestVersion": "1.7.32",
+    "sha1cksum": "4f2f92f1ed5f595d5e36397efe5caae946bae1f9",
+    "techReleaseDate": "31-Oct-2017",
+    "competitive": false,
+    "cryptoFunction": true,
+    "banned": true,
+    "sourceExists": false,
+    "builtAtOracle": false,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "LOW",
+        "cvssV3BaseSeverity": "HIGH"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "BSD 3-Clause",
+        "spdxLicenseIdentifier": "BSD-3-Clause"
+      }
+    ],
+    "dependencies": {
+      "org.slf4j:slf4j-core:1.7.30": {
+        "scope": "compile"
+      },
+      "org.slf4j:slf4j-annotations:1.7.30": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "SLF4J",
+    "versionedArtifact": "org.slf4j:slf4j:1.7.32",
+    "groupid": "org.slf4j",
+    "name": "slf4j",
+    "version": "1.7.32",
+    "lic_tech_id": "10014",
+    "lic_tech_id_Expiry_Date": "07-Nov-2025",
+    "copyright_holder": "SLF4J Software Foundation",
+    "vendorLatestVersion": "2.0.0",
+    "plsLatestVersion": "1.7.32",
+    "sha1cksum": "c3e9b636d21179e3359dd4ccba13ed5514864480",
+    "techReleaseDate": "09-Jul-2017",
+    "competitive": true,
+    "cryptoFunction": false,
+    "banned": true,
+    "sourceExists": true,
+    "builtAtOracle": true,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "MEDIUM",
+        "cvssV3BaseSeverity": "MEDIUM"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "BSD 3-Clause",
+        "spdxLicenseIdentifier": "BSD-3-Clause"
+      }
+    ],
+    "dependencies": {
+      "org.slf4j:slf4j-core:1.7.32": {
+        "scope": "compile"
+      },
+      "org.slf4j:slf4j-annotations:1.7.32": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "SLF4J",
+    "versionedArtifact": "org.slf4j:slf4j:2.0.0",
+    "groupid": "org.slf4j",
+    "name": "slf4j",
+    "version": "2.0.0",
+    "lic_tech_id": "10015",
+    "lic_tech_id_Expiry_Date": "15-Aug-2026",
+    "copyright_holder": "SLF4J Software Foundation",
+    "vendorLatestVersion": "2.0.0",
+    "plsLatestVersion": "1.7.32",
+    "sha1cksum": "11e0e213853ad473a6736c21e907910fbc01406a",
+    "techReleaseDate": "27-Dec-2015",
+    "competitive": false,
+    "cryptoFunction": false,
+    "banned": false,
+    "sourceExists": true,
+    "builtAtOracle": false,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "LOW",
+        "cvssV3BaseSeverity": "HIGH"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "BSD 3-Clause",
+        "spdxLicenseIdentifier": "BSD-3-Clause"
+      }
+    ],
+    "dependencies": {
+      "org.slf4j:slf4j-core:2.0.0": {
+        "scope": "compile"
+      },
+      "org.slf4j:slf4j-annotations:2.0.0": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Log4j",
+    "versionedArtifact": "org.log4j:log4j:2.11.0",
+    "groupid": "org.log4j",
+    "name": "log4j",
+    "version": "2.11.0",
+    "lic_tech_id": "10016",
+    "lic_tech_id_Expiry_Date": "11-Aug-2015",
+    "copyright_holder": "Log4j Software Foundation",
+    "vendorLatestVersion": "2.17.1",
+    "plsLatestVersion": "2.14.1",
+    "sha1cksum": "df646d2815b93dc22b981b7152e79d208287e608",
+    "techReleaseDate": "10-Sep-2020",
+    "competitive": false,
+    "cryptoFunction": true,
+    "banned": false,
+    "sourceExists": false,
+    "builtAtOracle": false,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "MEDIUM",
+        "cvssV3BaseSeverity": "MEDIUM"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "BSD 3-Clause",
+        "spdxLicenseIdentifier": "BSD-3-Clause"
+      }
+    ],
+    "dependencies": {
+      "org.log4j:log4j-core:2.11.0": {
+        "scope": "compile"
+      },
+      "org.log4j:log4j-annotations:2.11.0": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Log4j",
+    "versionedArtifact": "org.log4j:log4j:2.12.1",
+    "groupid": "org.log4j",
+    "name": "log4j",
+    "version": "2.12.1",
+    "lic_tech_id": "10017",
+    "lic_tech_id_Expiry_Date": "23-Sep-2018",
+    "copyright_holder": "Log4j Software Foundation",
+    "vendorLatestVersion": "2.17.1",
+    "plsLatestVersion": "2.14.1",
+    "sha1cksum": "221fd53d6a55604791a2377121504c19f547770f",
+    "techReleaseDate": "21-Jun-2020",
+    "competitive": true,
+    "cryptoFunction": true,
+    "banned": true,
+    "sourceExists": false,
+    "builtAtOracle": true,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "LOW",
+        "cvssV3BaseSeverity": "MEDIUM"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "Apache 2.0",
+        "spdxLicenseIdentifier": "Apache-2.0"
+      }
+    ],
+    "dependencies": {
+      "org.log4j:log4j-core:2.12.1": {
+        "scope": "compile"
+      },
+      "org.log4j:log4j-annotations:2.12.1": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Log4j",
+    "versionedArtifact": "org.log4j:log4j:2.13.3",
+    "groupid": "org.log4j",
+    "name": "log4j",
+    "version": "2.13.3",
+    "lic_tech_id": "10018",
+    "lic_tech_id_Expiry_Date": "25-Jul-2025",
+    "copyright_holder": "Log4j Software Foundation",
+    "vendorLatestVersion": "2.17.1",
+    "plsLatestVersion": "2.14.1",
+    "sha1cksum": "158a6efc236cb73d8c1eea684c1f340e7d01d339",
+    "techReleaseDate": "24-Apr-2018",
+    "competitive": true,
+    "cryptoFunction": false,
+    "banned": false,
+    "sourceExists": true,
+    "builtAtOracle": true,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "CRITICAL",
+        "cvssV3BaseSeverity": "MEDIUM"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "Apache 2.0",
+        "spdxLicenseIdentifier": "Apache-2.0"
+      }
+    ],
+    "dependencies": {
+      "org.log4j:log4j-core:2.13.3": {
+        "scope": "compile"
+      },
+      "org.log4j:log4j-annotations:2.13.3": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Log4j",
+    "versionedArtifact": "org.log4j:log4j:2.14.1",
+    "groupid": "org.log4j",
+    "name": "log4j",
+    "version": "2.14.1",
+    "lic_tech_id": "10019",
+    "lic_tech_id_Expiry_Date": "23-Dec-2026",
+    "copyright_holder": "Log4j Software Foundation",
+    "vendorLatestVersion": "2.17.1",
+    "plsLatestVersion": "2.14.1",
+    "sha1cksum": "dde664cb4a6afc8f0d68f2ec899e761b6d44072b",
+    "techReleaseDate": "05-Jun-2019",
+    "competitive": true,
+    "cryptoFunction": false,
+    "banned": true,
+    "sourceExists": false,
+    "builtAtOracle": false,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "HIGH",
+        "cvssV3BaseSeverity": "HIGH"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "MIT",
+        "spdxLicenseIdentifier": "MIT"
+      }
+    ],
+    "dependencies": {
+      "org.log4j:log4j-core:2.14.1": {
+        "scope": "compile"
+      },
+      "org.log4j:log4j-annotations:2.14.1": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "Log4j",
+    "versionedArtifact": "org.log4j:log4j:2.17.1",
+    "groupid": "org.log4j",
+    "name": "log4j",
+    "version": "2.17.1",
+    "lic_tech_id": "10020",
+    "lic_tech_id_Expiry_Date": "31-Jan-2027",
+    "copyright_holder": "Log4j Software Foundation",
+    "vendorLatestVersion": "2.17.1",
+    "plsLatestVersion": "2.14.1",
+    "sha1cksum": "bda828db78e0c9e1b8c145905c0b109af197b429",
+    "techReleaseDate": "09-Jan-2019",
+    "competitive": true,
+    "cryptoFunction": false,
+    "banned": false,
+    "sourceExists": true,
+    "builtAtOracle": true,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "CRITICAL",
+        "cvssV3BaseSeverity": "LOW"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "BSD 3-Clause",
+        "spdxLicenseIdentifier": "BSD-3-Clause"
+      }
+    ],
+    "dependencies": {
+      "org.log4j:log4j-core:2.17.1": {
+        "scope": "compile"
+      },
+      "org.log4j:log4j-annotations:2.17.1": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "JUnit",
+    "versionedArtifact": "org.junit:junit:4.12",
+    "groupid": "org.junit",
+    "name": "junit",
+    "version": "4.12",
+    "lic_tech_id": "10021",
+    "lic_tech_id_Expiry_Date": "04-Mar-2022",
+    "copyright_holder": "JUnit Software Foundation",
+    "vendorLatestVersion": "5.8.1",
+    "plsLatestVersion": "5.6.2",
+    "sha1cksum": "3a6dc3b6dd7fc8a7ccec4aa6dfca525162b29a67",
+    "techReleaseDate": "05-Nov-2020",
+    "competitive": false,
+    "cryptoFunction": false,
+    "banned": true,
+    "sourceExists": true,
+    "builtAtOracle": false,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "CRITICAL",
+        "cvssV3BaseSeverity": "MEDIUM"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "BSD 3-Clause",
+        "spdxLicenseIdentifier": "BSD-3-Clause"
+      }
+    ],
+    "dependencies": {
+      "org.junit:junit-core:4.12": {
+        "scope": "compile"
+      },
+      "org.junit:junit-annotations:4.12": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "JUnit",
+    "versionedArtifact": "org.junit:junit:4.13",
+    "groupid": "org.junit",
+    "name": "junit",
+    "version": "4.13",
+    "lic_tech_id": "10022",
+    "lic_tech_id_Expiry_Date": "27-Dec-2022",
+    "copyright_holder": "JUnit Software Foundation",
+    "vendorLatestVersion": "5.8.1",
+    "plsLatestVersion": "5.6.2",
+    "sha1cksum": "8bb3be42f9213b57465d1df10b04fc8b7bb56232",
+    "techReleaseDate": "12-Sep-2018",
+    "competitive": true,
+    "cryptoFunction": false,
+    "banned": false,
+    "sourceExists": false,
+    "builtAtOracle": true,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "HIGH",
+        "cvssV3BaseSeverity": "HIGH"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "MIT",
+        "spdxLicenseIdentifier": "MIT"
+      }
+    ],
+    "dependencies": {
+      "org.junit:junit-core:4.13": {
+        "scope": "compile"
+      },
+      "org.junit:junit-annotations:4.13": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "JUnit",
+    "versionedArtifact": "org.junit:junit:5.6.2",
+    "groupid": "org.junit",
+    "name": "junit",
+    "version": "5.6.2",
+    "lic_tech_id": "10023",
+    "lic_tech_id_Expiry_Date": "25-Jun-2021",
+    "copyright_holder": "JUnit Software Foundation",
+    "vendorLatestVersion": "5.8.1",
+    "plsLatestVersion": "5.6.2",
+    "sha1cksum": "2c17f2bed026342345ae68fcc4b59b201cef938c",
+    "techReleaseDate": "23-Jul-2015",
+    "competitive": true,
+    "cryptoFunction": false,
+    "banned": false,
+    "sourceExists": false,
+    "builtAtOracle": false,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "CRITICAL",
+        "cvssV3BaseSeverity": "MEDIUM"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "MIT",
+        "spdxLicenseIdentifier": "MIT"
+      }
+    ],
+    "dependencies": {
+      "org.junit:junit-core:5.6.2": {
+        "scope": "compile"
+      },
+      "org.junit:junit-annotations:5.6.2": {
+        "scope": "compile"
+      }
+    }
+  },
+  {
+    "plsTechnologyName": "JUnit",
+    "versionedArtifact": "org.junit:junit:5.8.1",
+    "groupid": "org.junit",
+    "name": "junit",
+    "version": "5.8.1",
+    "lic_tech_id": "10024",
+    "lic_tech_id_Expiry_Date": "29-Sep-2020",
+    "copyright_holder": "JUnit Software Foundation",
+    "vendorLatestVersion": "5.8.1",
+    "plsLatestVersion": "5.6.2",
+    "sha1cksum": "b0e414a03aedcefa5c05276b7aa873350baf6378",
+    "techReleaseDate": "27-Dec-2015",
+    "competitive": false,
+    "cryptoFunction": true,
+    "banned": true,
+    "sourceExists": false,
+    "builtAtOracle": false,
+    "vulnerabilities": [
+      {
+        "cveSeverity": "LOW",
+        "cvssV3BaseSeverity": "MEDIUM"
+      }
+    ],
+    "licenses": [
+      {
+        "licenseType": "MIT",
+        "spdxLicenseIdentifier": "MIT"
+      }
+    ],
+    "dependencies": {
+      "org.junit:junit-core:5.8.1": {
+        "scope": "compile"
+      },
+      "org.junit:junit-annotations:5.8.1": {
+        "scope": "compile"
+      }
+    }
+  }
+]

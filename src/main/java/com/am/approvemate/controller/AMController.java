@@ -19,7 +19,7 @@ public class AMController {
     @GetMapping("/getDetails")
     public ResponseEntity<List<Library>> sendDetails(){
         try {
-            InputStream inputStream = new ClassPathResource("static/updated_java_libraries.json").getInputStream();
+            InputStream inputStream = new ClassPathResource("static/third_party_libraries_sample.json").getInputStream();
             ObjectMapper mapper = new ObjectMapper();
             List<Library> libraries = mapper.readValue(inputStream, new TypeReference<List<Library>>() {});
             return ResponseEntity.ok(libraries);
@@ -32,7 +32,7 @@ public class AMController {
     @GetMapping("/getLicensingRecord")
     public ResponseEntity<List<LicensingRecord>> sendLicensingRecord(){
         try {
-            InputStream inputStream = new ClassPathResource("static/licensing_data_synced_with_libraries.json").getInputStream();
+            InputStream inputStream = new ClassPathResource("static/ltid_baid_mappings.json").getInputStream();
             ObjectMapper mapper = new ObjectMapper();
             List<LicensingRecord> licensingRecords = mapper.readValue(inputStream, new TypeReference<List<LicensingRecord>>() {});
             return ResponseEntity.ok(licensingRecords);
